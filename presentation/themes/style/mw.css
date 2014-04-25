@@ -353,7 +353,7 @@ a:hover, a:focus {
   background: #000;
 }
 .deck-container > .slide {
-  padding: 0 48px;
+  padding: 0;
 }
 
 .slide .deck-before, .slide .deck-previous {
@@ -394,7 +394,10 @@ a:hover, a:focus {
  *
  */
 
+
 .notes {
   background:rgba(0,0,0,0.5);
-  color:#eee;
+  color:#ddd;
+  padding:.5em 1em;
+  border-top: 1px solid #aaa;
 }
