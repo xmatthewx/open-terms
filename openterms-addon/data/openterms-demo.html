@@ -9,7 +9,30 @@
 <body>
 	<p>Lorem ipsum....</p>
 	<script src="jquery-1.11.0.min.js"></script>
-	<script src="openterms-demo.js"></script>
+	<script src="openterms.js"></script>
 
+<script type="text/javascript">
+	
+	// set sitename
+	var site = {}
+	site.name = 'Twitter';
+
+	// add notice
+	$('body').prepend(ot.html);
+	$('.ot-container').hide();
+
+	ot.notice = ot.getNotice('random');
+	$('.ot-content').html(ot.notice);
+
+	$('.ot-container').slideDown(1000);
+	$('body').animate({
+		'padding-top' : '14em',
+	},1000);
+
+	// nav listener
+	ot.nav();
+
+</script>
 
 </body>
+</html>
