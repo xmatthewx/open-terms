@@ -15,6 +15,9 @@ When someone visits a page to signup or join, the browser addon presents a serie
  - A rough demo: 
  http://htmlpreview.github.io/?https://github.com/xmatthewx/open-terms/blob/master/openterms-addon/data/openterms-demo.html
 
+ - Download draft plugin (right-click & save):
+ https://github.com/xmatthewx/open-terms/blob/master/openterms-addon/openterms.xpi
+
 Related initiatives
  - Terms of Service Didn't Read - http://tosdr.org/
  - ToSBack - https://tosback.org/
