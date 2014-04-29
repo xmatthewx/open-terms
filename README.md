@@ -9,14 +9,12 @@ The entire conflict centers around a little checkbox. This locus gives us a uniq
 
 When someone visits a page to signup or join, the browser addon presents a series of opportunities to learn more or take action. They aim to make unobtrusive connections to existing campaigns and alternative software.
 
- - More info: 
- http://xmatthewx.github.io/open-terms/presentation/
+ 
+ - [A rough demo](http://htmlpreview.github.io/?https://github.com/xmatthewx/open-terms/blob/master/openterms-addon/data/openterms-demo.html)
 
- - A rough demo: 
- http://htmlpreview.github.io/?https://github.com/xmatthewx/open-terms/blob/master/openterms-addon/data/openterms-demo.html
+ - [Download draft plugin](https://github.com/xmatthewx/open-terms/blob/master/openterms-addon/openterms.xpi) (right-click, save, install)
 
- - Download draft plugin (right-click & save):
- https://github.com/xmatthewx/open-terms/blob/master/openterms-addon/openterms.xpi
+ - [Presentation](http://xmatthewx.github.io/open-terms/presentation/) 
 
 Related initiatives
  - Terms of Service Didn't Read - http://tosdr.org/
