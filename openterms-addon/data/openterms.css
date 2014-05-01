@@ -8,7 +8,6 @@ body {
 	display: none;
 	top:0; left:0; right:0;
 	margin:0; padding:0;
-	min-height: 190px;
 	overflow:hidden;
 	/*border-bottom: 4px solid #ccc;*/
 	background:rgb(54,54,54);
@@ -23,6 +22,7 @@ body {
 
 .ot-content {
 	padding:1em 200px 1em 2em;
+	min-height: 160px;
 }
 
 /* reset */
